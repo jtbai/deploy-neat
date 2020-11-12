@@ -1,0 +1,3 @@
+[submodule "neat-vision"]
+	path = neat-vision
+	url = https://github.com/cbaziotis/neat-vision.git
